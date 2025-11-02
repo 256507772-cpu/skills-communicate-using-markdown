@@ -1,15 +1,12 @@
 <header>
 
-# markdown语法学习ing
-## 二级标题
-### 三级标题
-###### 六级标题，此时字体最小
- <!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+
+# <!--
+##  <<< Author notes: Course header >>>
+###  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+####  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+#####  Add your open source license, GitHub uses MIT license.
+# -->
 
 [English](https://github.com/skills/communicate-using-markdown) | 中文
 
