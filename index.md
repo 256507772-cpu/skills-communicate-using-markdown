@@ -10,4 +10,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
--[] This is a emplex
+- [ ] This is an emplex
+- [ ] Turn on GitHub Pages
+
